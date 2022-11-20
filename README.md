@@ -32,6 +32,3 @@ Il est possible de télécharger la base de données complète (table + légende
 
 ### Références
 
-
-
-theme: minima
