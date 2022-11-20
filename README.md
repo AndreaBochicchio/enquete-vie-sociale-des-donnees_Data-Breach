@@ -8,3 +8,5 @@ Introduction ici
 **Observation des données** :
 
 Observation quantitative des données :                                                                    Observation qualitative des données :
+
+enquete-vie-sociale-des-donnees_Data-Breach/Observation quantitative.pdf
