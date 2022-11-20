@@ -1,7 +1,8 @@
 url: "http://andreabochicchio.github.io/enquete-vie-sociale-des-donnees_Data-Breach/"
 
-color_theme: dark                     # color theme auto, dark or light
+title: "Enquête La vie sociale des données - base de données Data Breach Chronology"
+color_theme: dark
 
-remote_theme: pages-themes/slate@v0.2.0
+remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme
