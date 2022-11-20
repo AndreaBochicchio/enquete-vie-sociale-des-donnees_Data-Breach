@@ -1,8 +1,8 @@
-baseurl: "http://andreabochicchio.github.io/enquete-vie-sociale-des-donnees_Data-Breach/"
+baseurl: ""
 url: "http://andreabochicchio.github.io/enquete-vie-sociale-des-donnees_Data-Breach/"
-plugins: [jekyll-remote-theme]
 
-favicon: assets/favicon.ico           # Icon displayed in the tab
 color_theme: dark                     # color theme auto, dark or light
 
 remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
