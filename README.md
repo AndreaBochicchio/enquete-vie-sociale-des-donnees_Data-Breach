@@ -2,7 +2,7 @@
 
 Introduction ici
 
-**Base de données - Data Breach Chronology by PrivacyRights.org (https://privacyrights.org/data-breaches) :**
+## **Base de données - [Data Breach Chronology by PrivacyRights.org](https://privacyrights.org/data-breaches) :**
 
 
 ## **Observation des données** :
