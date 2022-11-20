@@ -1,5 +1,5 @@
-baseurl: "https://andreabochicchio.github.io/enquete-vie-sociale-des-donnees_Data-Breach/"
-url: "https://andreabochicchio.github.io/enquete-vie-sociale-des-donnees_Data-Breach/"
+baseurl: "http://andreabochicchio.github.io/enquete-vie-sociale-des-donnees_Data-Breach/"
+url: "http://andreabochicchio.github.io/enquete-vie-sociale-des-donnees_Data-Breach/"
 plugins: [jekyll, jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-remote-theme]
 
 # BLOG CONFIGURATION
