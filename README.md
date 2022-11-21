@@ -21,7 +21,11 @@ Il est possible de télécharger la base de données complète (table + légende
 
 ## Opinions
 
-On a 
+Afin de mieux comprendre l'utilité d'une base de données décrivant les fuites de données, on a considéré utile de recolter les opinions de propriétaires de données au sein d'une communauté étudiante - à travers un sondage - et d'un professionel qui travaille avec les données - grâce à une interview.
+
+Un résumé du sondage, qui recolte les réponses de 50 personnes à 6 questions, peut être lu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/7fa398e6f677401f6ed8820848a9b4e9f1111e0e/Sondage.pdf).
+
+Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France. L'enregistrement intégral de l'interview peut également être écouté
 
 ## Analyse critique de la base de données et ses enjeux
 
