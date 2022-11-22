@@ -1,5 +1,19 @@
 Introduction ici
 
+## **Indice des contenus de l'enquête**
+
+[Base de données](##base-de-données---data-breach-chronology-by-privacyrights.org)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
 ## **Base de données - [Data Breach Chronology by PrivacyRights.org](https://privacyrights.org/data-breaches)**
 
 | Date Made Public  | Company | City | State | Type of breach | Type of organization | Total Records | Description of incident | Information Source | Source URL | Year of Breach | Latitude | Longitude
