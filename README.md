@@ -1,18 +1,24 @@
-Introduction ici
+Intro générale au projet
 
 ## **Indice des contenus de l'enquête**
 
-1) [Base de données](#base-de-données---data-breach-chronology-by-privacyrightsorg)
+1) [Introduction](#introduction)
 
-2) [Observation des données](#observation-des-données)
+2) [Base de données](#base-de-données---data-breach-chronology-by-privacyrightsorg)
 
-3) [Opinions](#opinions)
+3) [Observation des données](#observation-des-données)
 
-4) [Analyse critique de la base de données et ses enjeux](#analyse-critique-de-la-base-de-données-et-ses-enjeux)
+4) [Opinions](#opinions)
 
-5) [Conclusion](#conclusion)
+5) [Analyse critique de la base de données et ses enjeux](#analyse-critique-de-la-base-de-données-et-ses-enjeux)
 
-6) [Réferences](#références)
+6) [Conclusion](#conclusion)
+
+7) [Réferences](#références)
+
+## **Introduction**
+
+Introduction ici
 
 ## **Base de données - [Data Breach Chronology by PrivacyRights.org](https://privacyrights.org/data-breaches)**
 
@@ -41,7 +47,7 @@ Afin de mieux comprendre l'utilité d'une base de données décrivant les fuites
 
 Un résumé du sondage, qui recolte les réponses de 50 personnes à 6 questions, peut être lu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/7fa398e6f677401f6ed8820848a9b4e9f1111e0e/Sondage.pdf).
 
-Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France.
+Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/6e272a6e5c3c6e7780859f1fa6c272b62a46e505/Interview.pdf). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France.
 
 ## **Analyse critique de la base de données et ses enjeux**
 
