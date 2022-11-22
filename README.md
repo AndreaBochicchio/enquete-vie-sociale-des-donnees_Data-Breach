@@ -1,3 +1,6 @@
+**Par Andrea Bochicchio, Nancy-Wangue Moussissa et Ayesha Veerasuntharam**
+
+
 ## **Indice des contenus de l'enquête**
 
 1) [Introduction](#introduction)
