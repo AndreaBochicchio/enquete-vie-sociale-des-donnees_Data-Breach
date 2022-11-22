@@ -14,6 +14,8 @@ Il est possible de télécharger la base de données complète (table + légende
 
 ## **Observation des données**
 
+Cette section contient une observation - quantitative et qualitative - des données présentées par la base. Cette observation peut être considerée un résumé de la base de données : elle est donc préliminaire à la lecture de l'analyse de la base de données.
+
 [Observation quantitative des données](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/6225ee0f3ee1768aaedc30b45cee25992a95bfdb/Observation%20quantitative.pdf) : Cela contient une classification des données par leur type et leur distribution géographique; d'autres caractéristiques intéressantes sont également signalées.
 
 [Observation qualitative des données](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/50788e9dc1d7afb2e25c1292249b851a4f1037ad/Observation%20qualitative.pdf) : Cela commente la distribution des données qui a été observée, ce qui montre des points clés pour l'analyse de la base de données. 
