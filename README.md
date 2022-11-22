@@ -1,5 +1,3 @@
-Intro générale au projet
-
 ## **Indice des contenus de l'enquête**
 
 1) [Introduction](#introduction)
@@ -19,6 +17,7 @@ Intro générale au projet
 ## **Introduction**
 
 Introduction ici
+
 
 ## **Base de données - [Data Breach Chronology by PrivacyRights.org](https://privacyrights.org/data-breaches)**
 
@@ -49,11 +48,19 @@ Un résumé du sondage, qui recolte les réponses de 50 personnes à 6 questions
 
 Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/6e272a6e5c3c6e7780859f1fa6c272b62a46e505/Interview.pdf). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France.
 
+
 ## **Analyse critique de la base de données et ses enjeux**
+
+Analyse
 
 
 ## **Conclusion**
 
+Texte conclusif
+
+
+
 
 ### **Références**
 
+Liste
