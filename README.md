@@ -16,7 +16,7 @@ Il est possible de télécharger la base de données complète (table + légende
 
 [Observation quantitative des données](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/6225ee0f3ee1768aaedc30b45cee25992a95bfdb/Observation%20quantitative.pdf) : Cela contient une classification des données par leur type et leur distribution géographique; d'autres caractéristiques intéressantes sont également signalées.
 
-[Observation qualitative des données]() : 
+[Observation qualitative des données](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/50788e9dc1d7afb2e25c1292249b851a4f1037ad/Observation%20qualitative.pdf) : Cela commente la distribution des données qui a été observée, ce qui montre des points clés pour l'analyse de la base de données. 
 
 
 ## **Opinions**
@@ -25,7 +25,7 @@ Afin de mieux comprendre l'utilité d'une base de données décrivant les fuites
 
 Un résumé du sondage, qui recolte les réponses de 50 personnes à 6 questions, peut être lu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/7fa398e6f677401f6ed8820848a9b4e9f1111e0e/Sondage.pdf).
 
-Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France. L'enregistrement intégral de l'interview peut également être écouté
+Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France.
 
 ## **Analyse critique de la base de données et ses enjeux**
 
