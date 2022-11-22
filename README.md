@@ -2,17 +2,17 @@ Introduction ici
 
 ## **Indice des contenus de l'enquête**
 
-[Base de données](##-base-de-données---data-breach-chronology-by-privacyrights.org)
+1) [Base de données](#base-de-données---data-breach-chronology-by-privacyrightsorg)
 
-[Observation des données](#observation-des-données)
+2) [Observation des données](#observation-des-données)
 
-[]()
+3) [Opinions](#opinions)
 
-[]()
+4) [Analyse critique de la base de données et ses enjeux](#analyse-critique-de-la-base-de-données-et-ses-enjeux)
 
-[]()
+5) [Conclusion](#conclusion)
 
-[]()
+6) [Réferences](#références)
 
 ## **Base de données - [Data Breach Chronology by PrivacyRights.org](https://privacyrights.org/data-breaches)**
 
