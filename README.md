@@ -7,7 +7,7 @@ Introduction ici
 | 1/7/2005  | University of California San Diego  | La Jolla  | California  | HACK  | EDU  | 3,300  | A University server was hacked in April. [...]  | Dataloss DB  |   | 2005  | 33.8575  | -117.87556  |
 | 1/11/2005	 | University of Tennessee Medical Center	 | Knoxville	 | Tennessee	 | PORT	 | MED	| 3,800	 | A laptop was stolen from the University's medical billing office.  [...]	 | Dataloss DB	 |  |	2005  |	35.960638	 | -83.920739  |
 
-<sub>*Exemple des deux premières entrées (avec description abrégée) de la base de données, qui contient 9015 entrées.*</sub>
+<sub>*Exemple des deux premières entrées par date (avec description abrégée) de la base de données, qui contient 9015 entrées.*</sub>
 
 Il est possible de télécharger la base de données complète (table + légende) en format .xlsx [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/eff3385d44e429cc2f2a67a3c0388d8cdac2fcdd/PRC%20Data%20Breach%20Chronology%20-%201.13.20.xlsx). Il est également possible de [consulter la base de données en ligne sur Google Spreadsheets](https://docs.google.com/spreadsheets/d/1Avhwp8p1vLmQLlqtKLczFHK4k4Ha5xWAoyznk8FcPow/edit?usp=sharing).
 
