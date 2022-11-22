@@ -4,7 +4,7 @@ Introduction ici
 
 [Base de données](##-base-de-données---data-breach-chronology-by-privacyrights.org)
 
-[Observation des données](#-observation-des-données)
+[Observation des données](#observation-des-données)
 
 []()
 
