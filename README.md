@@ -145,7 +145,7 @@ Kulhari, Shraddha, *Building-Blocks of a Data Protection Revolution: The Uneasy 
 
 [Reitman, Rainey, *For the Decentralized Web*, Medium, Medium, 22 novembre 2020,](https://raineyreitman.medium.com/for-the-decentralized-web-35e79f654f93)
 
-[TEDxTalks, *Data Privacy: Good or Bad? | Mark Farid | TEDxWarwick*, YouTube, YouTube, 4 avril 2017.](https://www.youtube.com/watch?v=pKD5rxMonBI)
+[TEDxTalks, *Data Privacy: Good or Bad?, Mark Farid, TEDxWarwick*, YouTube, YouTube, 4 avril 2017.](https://www.youtube.com/watch?v=pKD5rxMonBI)
 
 [*Why Is Phi Valuable to Hackers? The Cost of Protected Health Information*, Accountable.](https://www.accountablehq.com/post/why-is-phi-valuable-to-hackers)
 
