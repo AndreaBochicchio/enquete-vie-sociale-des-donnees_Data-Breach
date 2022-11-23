@@ -49,7 +49,7 @@ Afin de mieux comprendre l'utilité d'une base de données décrivant les fuites
 
 Un résumé du sondage, qui recolte les réponses de 50 personnes à 6 questions, peut être lu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/7fa398e6f677401f6ed8820848a9b4e9f1111e0e/Sondage.pdf).
 
-Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/6e272a6e5c3c6e7780859f1fa6c272b62a46e505/Interview.pdf). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France.
+Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](https://github.com/AndreaBochicchio/enquete-vie-sociale-des-donnees_Data-Breach/blob/69bc0c399f2cb41b969159ed87a2f059afef8300/Interview.pdf). Sébastien Bourdon est un journaliste indépendant qui travaille en sources ouvertes (OSINT). Il travaille avec les données issues des réseaux sociaux pour traquer l’extrême droite militante en France.
 
 
 ## **Analyse critique de la base de données et ses enjeux**
