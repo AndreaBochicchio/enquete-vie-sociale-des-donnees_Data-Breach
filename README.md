@@ -45,7 +45,7 @@ Data Breach Chronology est une base de données créée par l’organisation Pri
 **f)	L'histoire des créateurs et des usagers :** PRC est intimement lié aux enjeux légaux. C’est ainsi qu’elle se lie à l’UC Berkeley Law School pour innover et créer des ressources interactives permettant aux usagers de garder une trace des problèmes de conservation de données qu'ils rencontrent. Amber Yoo, directrice des communication chez Privacy Rights, signalait que 50 plaintes avaient été reçues dans les quatre premiers jours suivant le lancement du centre de réclamation en ligne. 78% des réclamations déposées à ce jour avaient l'option "partager" activée. 60 % sont contre les entreprises, 18 % sont contre les agences gouvernementales, 12 % sont contre une personne et 10 % sont contre "aucune" (généralement à propos d'une pratique générale de l'industrie), résume l'Electronic Frontier Foundation (EFF). Rainey Reitmann, qui a travaillé chez Privacy Rights Clearinghouse pendant les premières phases de ce projet et aidé à la conception initiale de l'outil de plainte en ligne, écrit :
 
 > [...] File storage is basically a monopoly. Much of the modern Internet relies on a single file service — Amazon Web Services — to store and serve literally billions of websites and applications. This means a single corporation — with an agenda, narrow economic incentives, and little accountability — has a powerful ability to shut down access to vast swaths of human information. And we’ve seen the perils of that, including when Amazon Web Services suffered blackouts and hunks of the most popular Internet services were unavailable for long stretches. Centralization of this sort is dangerous and short-sighted.
-- [Rainey Reitmann, *For the Decentralized Web*, 22 novembre 2020.](https://raineyreitman.medium.com/for-the-decentralized-web-35e79f654f93)
+- [Reitmann, 2020](https://raineyreitman.medium.com/for-the-decentralized-web-35e79f654f93)
 
 ### Pourquoi on a choisi cette base de données
 
@@ -123,6 +123,37 @@ Par conséquent, il est plus aisé de cibler des campagnes de prévention et de 
 
 ### Vise le médical
 
+En observant la base de données, nous avons remarqué qu’une grosse partie des attaques visaient le médical et non d’autres secteurs. Ceci nous a surpris, car on a tendance à supposer que les données bancaires sont les données les plus touchées lors des fuites. C’est ainsi que la dominance des fuites de données médicales a attiré notre attention.
+ 
+Il s’avère qu’il existe de nombreuses raisons pour lesquelles ces données-ci sont plus visées que d’autres pendant ces attaques. Selon un article de [Accountable](https://www.accountablehq.com/post/why-is-phi-valuable-to-hackers) les données médicales incluent :
+
+1.	Nom
+2.	Adresse (y compris toute information plus localisée que l'état)
+3.	Toutes les dates (sauf les années) relatives à l'individu, y compris les anniversaires, la date de décès, la date d'admission/de sortie, etc.
+4.	Numéro de téléphone
+5.	Numéro de fax
+6.	Adresse électronique
+7.	Numéro de sécurité sociale
+8.	Numéro de dossier médical
+9.	Numéro de bénéficiaire du plan de santé
+10. Numéro de compte
+11. Numéro de certificat/licence
+12. Identifiants de véhicule, numéros de série, numéros de plaque d'immatriculation
+13. Identifiants/numéros de série des appareils
+14. URLs web
+15. Adresse IP
+16. Identifiants biométriques tels que les empreintes digitales ou vocales
+17. Photos du visage entier
+18. Tout autre numéro, caractéristique ou code d'identification unique
+ 
+Il y a trois raisons principales pour lesquelles les données médicales sont les plus fuitées.
+
+**a)	Valeur des données :** Premièrement, selon l’article, un numéro de sécurité sociale pour être revendu pour $0.53, mais les données médicales d’une personne pourraient être vendu à la hauteur de $250. Car les données médicales possèdent une valeur économique plus intéressante que d’autres, elles sont visées davantage.
+
+**b)	Longue durée de conservation :** Le deuxième point soulevé dans l’article concerne la plus-valeur des données sur le long-terme. Lorsque l’on remarque des achats qu’on ne reconnaît pas sur notre relevé bancaire, notre réflexe serait de bloquer la carte et changer de code. Mais quant aux données médicales ? Ces données comprennent beaucoup d’informations sensibles; toutefois, on se rend compte beaucoup moins rapidement quand ces données fuient, car on ne peut pas directement remarquer les conséquences.
+
+**c)	De nombreux moyens de les utiliser :** Ces données peuvent être utilisées pour faire des réclamations auprès des mutuelles, demander des ordonnances… Pour ceux qui sont dans le marché noir des données ces données sont à usage multiple.
+
 ### Buts criminels ou positifs
 
 > The Privacy Rights Clearinghouse attributed government data breaches in 2006 to five causes: "human/software incompetence" was the largest single  cause, responsible for 44% of the cases found; laptop theft was second, accounting for 21%, with other thefts close behind at 17%; outside hackers  caused 13% of the known cases; and insider malfeasance was blamed only 5% of the time.
@@ -137,14 +168,14 @@ Sur le caractère informationnel, WikiLeaks est un exemple probant de la vocatio
 ### Étude comparative du droit européen et états-unien
 
 > A strong case about the disconnect between data protection and privacy is made on the basis of the two distinct rights contained in Article 7 and Article 8 of the Charter of Fundamental Rights of the European Union. Article 7 of the Charter envisages the right to respect one’s private and family life, home and communications, while Article 8 grants the right to the protection of personal data concerning oneself. However, in the absence of a specific right to data protection in Article 8 of the European Convention on Human Rights (ECHR), it materialises in conjunction with the jurisprudence of the European Court of Human Rights on the protection of privacy and private life.
-- Kulhari, 2018
+- [Kulhari, 2018](https://www.jstor.org/stable/j.ctv941qz6)
 
 Pour les Européens, il existe de nombreux textes juridiques sur la confidentialité et la même est inscrite au sein des constitutions.  Toutefois, il n’est pas exclu que l’UE rédige plus de textes de loi pour freiner la croissance du marché des données numériques. Mais comment peut-on définir le droit à la protection des données – en tant que droit humain ou droit européen? Les débats autour de ce sujet sont complexes – comme l’a évoqué Kulhari – l’absence de ce droit dans la CEDH ne signifie pas que le droit n’existe pas, il est désormais présent lors de la jurisprudence de cette Cour.
 
 L'émergence du texte de GDPR a apporté un autre poids juridique dans le domaine de la protection des données au sein de l’Union Européenne.
 
 > 'profiling' means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements;
-- Alinéa 4, Article 4 GDPR.
+- [Alinéa 4, Article 4 GDPR](https://gdpr.eu/tag/gdpr/)
 
 Cet article, dans le cadre de notre projet, met en lumière le manque de textes de loi aux États Unis comparé à L’UE. Du fait que PRC est une base surtout au service des particuliers américains, il est évident que les textes de loi américains sont plus pertinents. Néanmoins, quand on procède à une étude comparative entre les États-Unis et l'Union Européenne, les textes juridiques ont une incidence considérable sur le type, la taille et les fréquences des brèches. Le droit américain varie selon l’État, donc les brèches doivent être avant tout évalués dans la juridiction compétente – le caractère instantané d’une brèche est très contreproductive à cette approche. Nous avons remarqué lors de ce projet que les brèches de données aux États-Unis étaient beaucoup plus nombreuses – éventuellement à cause de ce manque d'harmonisation juridique nationale.
 
@@ -184,15 +215,17 @@ L'Union européenne devrait prendre en compte cette tendance aux États-Unis –
 
 [Froehlich, Andrew, *et al.*, *What Is a Data Breach?*, TechTarget, 27 July 2022.](https://www.techtarget.com/searchsecurity/definition/data-breach)
 
+[Froomkin, A. Michael, *Government Data Breaches*, Berkeley Technology Law Journal, vol. 24, no. 3, 2009, pp. 1019-1059.](https://www.jstor.org/stable/24118272#metadata_info_tab_contents)
+
 [*GDPR - Article 4*, GDPR.eu.](https://gdpr.eu/tag/gdpr/)
 
-Kulhari, Shraddha, *Building-Blocks of a Data Protection Revolution: The Uneasy Case for Blockchain Technology to Secure Privacy and Identity*, Nomos, 2018.
+[Kulhari, Shraddha, *Building-Blocks of a Data Protection Revolution: The Uneasy Case for Blockchain Technology to Secure Privacy and Identity*, Nomos, 2018.](https://www.jstor.org/stable/j.ctv941qz6)
 
 [*New European Union Cybersecurity Proposal Takes Aim at Cybercrime*, World Economic Forum.](https://www.weforum.org/agenda/2022/09/new-european-union-cybersecurity-proposal-takes-aim-at-cybercrimes/)
 
 [*Privacy Rights Clearinghouse Unveils New Privacy Complaint Form*, Electronic Frontier Foundation, 10 janvier 2022.](https://www.eff.org/fr/deeplinks/2012/01/privacy-rights-clearinghouse-unveils-new-privacy-complaint-form)
 
-[Reitman, Rainey, *For the Decentralized Web*, Medium, Medium, 22 novembre 2020,](https://raineyreitman.medium.com/for-the-decentralized-web-35e79f654f93)
+[Reitman, Rainey, *For the Decentralized Web*, Medium, Medium, 22 novembre 2020.](https://raineyreitman.medium.com/for-the-decentralized-web-35e79f654f93)
 
 [TEDxTalks, *Data Privacy: Good or Bad?, Mark Farid, TEDxWarwick*, YouTube, YouTube, 4 avril 2017.](https://www.youtube.com/watch?v=pKD5rxMonBI)
 
