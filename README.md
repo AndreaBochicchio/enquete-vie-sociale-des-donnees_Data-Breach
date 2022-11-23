@@ -1,4 +1,4 @@
-**Par Andrea Bochicchio, Nancy-Wangue Moussissa et Ayesha Veerasuntharam**
+Cette enqûete abordera une base de données qui recueille les fuites de données aux États-Unis, en l'observant et en pourvoyant une analyse structurée de l'utilité d'une telle base de données, de ses enjeux et de ses conséquences.
 
 
 ## **Indice des contenus de l'enquête**
