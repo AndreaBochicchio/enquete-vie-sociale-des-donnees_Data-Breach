@@ -59,12 +59,30 @@ Analyse
 
 ## **Conclusion**
 
-Texte conclusif
+Notre projet a dévoilé le caractère complexe d'une base qui souhaite informer les particuliers des fuites de données. Il s'avère qu’il y a de nombreuses questions qu’on se pose, non seulement quant à la qualification des brèches mais aussi au niveau des besoins évoqués par les particuliers qui pourraient être les utilisateurs de cette base.
+
+**Quels sont donc les enjeux de la création d’une base de données qui regroupent toutes les fuites de données ?**
+
+### Un jour une base PRC au niveau de l’Union Européenne ?
+
+La base que l'on a utilisée était une base américaine, donc la majorité des données étaient états-uniennes et non pas européennes.
+
+Pour créer une base de données en Europe il faudrait premièrement vérifier la légalité d'une base selon les normes juridiques qui existent aujourd'hui dans les textes du GDPR et des constitutions. Lors de notre projet on s'est demandé pourquoi une base n'existait pas en Europe – il paraît que les gouvernements européens feraient objet de débats de compétence pour créer ce genre de base, car on pourrait imaginer qu'elle porte atteinte au respect de la vie privée.
+
+Notre sondage a montré le besoin évoqué par une catégorie de particuliers pour une base de données qui regroupe ces informations, mais la faisabilité d’une base gérée par une administration publique est toujours incertaine. Avec les évolutions de la jurisprudence américaine et européenne, on peut envisager l’émergence d’une base pour informer les particuliers dans le futur proche.
+
+### L’utilisation criminelle de la base
+
+Nous avons soulevé le fait que la base que nous avons utilisée regroupe toutes les fuites de données. Mais nous ne devrions pas négliger la possibilité qu’un hacker ou quelqu'un de mauvaise foi puisse profiter de cette base pour identifier les sites ou les organisations les plus faibles. Cette observation pourrait contribuer à la réticence de beaucoup d’administrations publiques de former une base publique et centralisée.
+
+### L’évolution du secteur de la santé numérique
+
+La majorité des brèches vise le secteur médical – une information qui est très importante après une crise sanitaire mondiale. En Europe, on peut observer qu’aujourd'hui il y a de plus en plus de sites et de services proposés pour des soins médicaux et paramédicaux. Cette évolution devrait nous marquer, car la croissance des données médicales implique aussi la croissance des données sensibles et la prégnance d'éventuelles fuites de données.
+
+L'Union européenne devrait prendre en compte cette tendance aux États-Unis – les entreprises qui travaillent avec des données médicales aussi. Ces derniers devraient porter particulièrement attention à la sécurité de leurs données et la responsabilité qu’ils détiennent quand ils proposent ce genre de service.
 
 
-
-
-### **Références**
+## **Références**
 
 [*About - Privacy Rights Clearinghouse*, Privacy Rights Clearinghouse](https://privacyrightsclearinghouse.org/about/)
 
