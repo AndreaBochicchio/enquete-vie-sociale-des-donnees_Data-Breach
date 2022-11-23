@@ -66,4 +66,22 @@ Texte conclusif
 
 ### **Références**
 
-Liste
+[*About - Privacy Rights Clearinghouse*, Privacy Rights Clearinghouse](https://privacyrightsclearinghouse.org/about/)
+
+[Froehlich, Andrew, *et al.*, *What Is a Data Breach?*, TechTarget, 27 July 2022.](https://www.techtarget.com/searchsecurity/definition/data-breach)
+
+[*GDPR - Article 4*, GDPR.eu.](https://gdpr.eu/tag/gdpr/)
+
+Kulhari, Shraddha, *Building-Blocks of a Data Protection Revolution: The Uneasy Case for Blockchain Technology to Secure Privacy and Identity*, Nomos, 2018.
+
+[*New European Union Cybersecurity Proposal Takes Aim at Cybercrime*, World Economic Forum.](https://www.weforum.org/agenda/2022/09/new-european-union-cybersecurity-proposal-takes-aim-at-cybercrimes/)
+
+[*Privacy Rights Clearinghouse Unveils New Privacy Complaint Form*, Electronic Frontier Foundation, 10 janvier 2022.](https://www.eff.org/fr/deeplinks/2012/01/privacy-rights-clearinghouse-unveils-new-privacy-complaint-form)
+
+[Reitman, Rainey, *For the Decentralized Web*, Medium, Medium, 22 novembre 2020,](https://raineyreitman.medium.com/for-the-decentralized-web-35e79f654f93)
+
+[TEDxTalks, *Data Privacy: Good or Bad? | Mark Farid | TEDxWarwick*, YouTube, YouTube, 4 avril 2017.](https://www.youtube.com/watch?v=pKD5rxMonBI)
+
+[*Why Is Phi Valuable to Hackers? The Cost of Protected Health Information*, Accountable.](https://www.accountablehq.com/post/why-is-phi-valuable-to-hackers)
+
+[Zuboff, Shoshana, *Big Other: Surveillance Capitalism and the Prospects of an Information Civilization*, Journal of Information Technology, vol. 30, no. 1, 2015, pp. 75–89.](https://doi.org/10.1057/jit.2015.5)
