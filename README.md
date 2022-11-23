@@ -101,7 +101,56 @@ Un abrégé de l'interview à Sébastien Bourdon peut être vu [ici](https://git
 
 ## **Analyse critique de la base de données et ses enjeux**
 
-Analyse
+> In fact, ransomware attacks occur worldwide every 11 seconds and cost the global economy an estimated €20 billion last year, according to Cybersecurity Ventures. Meanwhile, DDoS attacks—malicious efforts to disrupt or cut off access to internet services or websites—cost just the EU economy roughly €65 billion in 2020.
+- [World Economic Forum](https://www.weforum.org/agenda/2022/09/new-european-union-cybersecurity-proposal-takes-aim-at-cybercrimes/)
+
+### Pas que du hacking
+
+La base de données Data Breach Chronology nous informe sur la qualité des brèches qui pénètrent les systèmes informatiques. Contrairement à l’image populaire selon laquelle la confidentialité des données est principalement mise en danger par du hacking, la base de données de PRC montre que le hacking est loin d’être la source principale de brèches. Parmi le type de brèche on constate : 
+
++	Fraude de carte de débit ou crédit (sans hacking)
++	Hacking
++	Divulgation de données par un *insider*
++	Perte de documents physique
++	Dispositif portable perdu ou volé
++	Ordinateur fixe ou server perdu ou volé
++	Divulgation involontaire de données
++	Inconnue
+
+Ainsi, la base de données est utile car elle démystifie et informe. Les brèches ne se traduisent pas toujours par des actions criminelles et, de manière concomitante, l’intensification des flux numériques augmente les risques de fuite de données. 
+
+Par conséquent, il est plus aisé de cibler des campagnes de prévention et de localiser les points critiques pour l'ouverture d’une brèche. Par exemple, si l’on sait qu’il s’agit plutôt d’*insiders* qui accèdent aux données confidentielles, les entreprises et individus peuvent mieux quadriller leur champ de surveillance et leurs méthodes de protection.
+
+### Vise le médical
+
+### Buts criminels ou positifs
+
+> The Privacy Rights Clearinghouse attributed government data breaches in 2006 to five causes: "human/software incompetence" was the largest single  cause, responsible for 44% of the cases found; laptop theft was second, accounting for 21%, with other thefts close behind at 17%; outside hackers  caused 13% of the known cases; and insider malfeasance was blamed only 5% of the time.
+- [Froomkin, 2009](https://www.jstor.org/stable/24118272)
+
+Ces statistiques de Privacy Rights Clearing House mettent en lumière les différents types de fuites. Les fuites de données ne servent pas nécessairement des causes criminelles, mais peuvent être accidentelles, ou bien informationnelles. Ceci est une nouvelle vision des fuites de données, du fait que l'on a souvent tendance d’imaginer les fuites de données comme le travail de hackers anonymes derrières un ordinateur. 
+
+Cette diversité de types de brèches était une des principales découvertes lors de notre analyse des données quantitatives de la base. Après avoir nettoyé la base et retrié les données par type, la prédominance des fuites avec des causes accidentelles nous a marqué. Sur le caractère criminel, même le simple fait d’avoir un ordinateur professionnel et de l’oublier dans un café peut engendrer de grosses conséquences pour l’entreprise. 
+
+Sur le caractère informationnel, WikiLeaks est un exemple probant de la vocation de service de l’intérêt général par le vol de données privées. Quand les populations vivent avec une asymétrie d’information permanente, les lanceurs d’alertes tentent de rééquilibrer la balance en divulguant des informations. En alertant sur les manquements éthiques des entreprises, souvent opaques sur leur fonctionnement, les John Doe créent des brèches pour libérer l’information des huis clos.
+
+### Étude comparative du droit européen et états-unien
+
+> A strong case about the disconnect between data protection and privacy is made on the basis of the two distinct rights contained in Article 7 and Article 8 of the Charter of Fundamental Rights of the European Union. Article 7 of the Charter envisages the right to respect one’s private and family life, home and communications, while Article 8 grants the right to the protection of personal data concerning oneself. However, in the absence of a specific right to data protection in Article 8 of the European Convention on Human Rights (ECHR), it materialises in conjunction with the jurisprudence of the European Court of Human Rights on the protection of privacy and private life.
+- Kulhari, 2018
+
+Pour les Européens, il existe de nombreux textes juridiques sur la confidentialité et la même est inscrite au sein des constitutions.  Toutefois, il n’est pas exclu que l’UE rédige plus de textes de loi pour freiner la croissance du marché des données numériques. Mais comment peut-on définir le droit à la protection des données – en tant que droit humain ou droit européen? Les débats autour de ce sujet sont complexes – comme l’a évoqué Kulhari – l’absence de ce droit dans la CEDH ne signifie pas que le droit n’existe pas, il est désormais présent lors de la jurisprudence de cette Cour.
+
+L'émergence du texte de GDPR a apporté un autre poids juridique dans le domaine de la protection des données au sein de l’Union Européenne.
+
+> 'profiling' means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person's performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements;
+- Alinéa 4, Article 4 GDPR.
+
+Cet article, dans le cadre de notre projet, met en lumière le manque de textes de loi aux États Unis comparé à L’UE. Du fait que PRC est une base surtout au service des particuliers américains, il est évident que les textes de loi américains sont plus pertinents. Néanmoins, quand on procède à une étude comparative entre les États-Unis et l'Union Européenne, les textes juridiques ont une incidence considérable sur le type, la taille et les fréquences des brèches. Le droit américain varie selon l’État, donc les brèches doivent être avant tout évalués dans la juridiction compétente – le caractère instantané d’une brèche est très contreproductive à cette approche. Nous avons remarqué lors de ce projet que les brèches de données aux États-Unis étaient beaucoup plus nombreuses – éventuellement à cause de ce manque d'harmonisation juridique nationale.
+
+Bien que les brèches ne soient pas négligeables en Europe (PRC, qui est une base de données américaine, contenait également des informations à propos des brèches en Europe), les particuliers européens sont mieux placés comparés aux particuliers américains grâce à l'harmonisation juridique qui permet à la fois aux entreprises et aux particuliers de comprendre plus facilement leurs droits et les démarches à suivre suite à une brèche de leurs données personnelles.
+
+Selon l'article 4 du texte de loi RGPD, on peut mieux prendre conscience de à quel point le droit de la vie privée est développé en UE comparé aux États Unis. C'est ainsi qu'on peut constater que ce manque d'harmonisation au niveau national ressort aussi du fait que le droit américain ne valorise pas le droit à la vie privée dans la même mesure que le droit européen – ce droit est non seulement inscrit dans la constitution européenne mais la jurisprudence dans la CEDH affirme ce droit de manière récurrente.
 
 
 ## **Conclusion**
